@@ -19,7 +19,6 @@
 <a href="https://twitter.com/manasjain1912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manasjain1912" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manasjain19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasjain19" height="30" width="40" /></a>
 <a href="https://instagram.com/manasjain_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasjain_19" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manasjain_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manasjain_19" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasjain1912&show_icons=true&locale=en&layout=compact" alt="manasjain1912" /></p>
